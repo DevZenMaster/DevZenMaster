@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://github.com/devzenmaster">
-    <img src="img/profile.jpg" alt="Profile" width="600">
+    <img src="img/js.gif" alt="computer_system_photo" width="600">
   </a>
 </p>
 
