@@ -1,75 +1,159 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Ruwan Sanjeewa</h1>
-<h3 align="center">Future Tech Leader | Transforming Ideas into Cutting-Edge Digital Solutions</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=devzenmaster&label=Profile%20views&color=0e75b6&style=flat" alt="devzenmaster" /> </p>
-
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
-- 🌱 I’m currently learning **Java**
-  
-- 🧑‍🎓 I’m an Undergraduate at **SLTC Research University**
-
-- 💬 Ask me about **Python , R**
-
-- 📫 How to reach me **devzen.master@gmail.com**
-
-- ⚡ Fun fact **I write code faster than my coffee brews! ☕**
-
-</td>
-<td width="50%" align="center">
-
-  <img align="center" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-
-  </td>
-</tr>
-</table>
-
----
-
-<h3 align="center">My Statistics:</h3>
 <p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devzenmaster&theme=dark&show_icons=true&locale=en" alt="devzenmaster" />
-  <br></br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devzenmaster&theme=dark&hide_border=false" alt="devzenmaster" />
-  </td>
-  <td width="50%" align="center">
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devzenmaster&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" alt="devzenmaster" />
-
-   </td>
-</tr>
-</table>
-
----
-  
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/ruwan-sanjeewa-3325b7266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruwan-sanjeewa-3325b7266" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100040331102544&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100040331102544&mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/ruwansanjeewa6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ruwansanjeewa6" height="30" width="40" /></a>
+  <img src="assets/Bottom_up.svg" alt="Top Border">
 </p>
 
----
+<div align="center">
+  <h1>
+    <a href="https://github.com/devzenmaster">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7C213&center=true&vCenter=true&width=635&height=70&lines=Hi%2C+I'm+Ruwan+Sanjeewa%F0%9F%91%8B" alt="Hi, I'm Ruwan sanjeewa">
+    </a>
+  </h1>
+</div>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devzenmaster&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
 
----
+<p align="center">
+  <a href="https://www.buymeacoffee.com/DevZenMaster">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee">
+  </a>
+</p>
 
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/DevZenMaster"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="DevZenMaster" /></a></p><br><br>
+<p align="center">
+  <a href="https://github.com/devzenmaster">
+    <img src="img/profile.jpg" alt="Profile" width="600">
+  </a>
+</p>
 
-<p>&nbsp;</p>
+<p align="center">
+  As a student of SLTC Research University doing Bachelor's in Applied IT, I am currently trying to improve my technology and programming skills along with enhancement knowledge about AI. 🧠💻
 
-![snake gif](https://github.com/DevZenMaster/DevZenMaster/blob/output/github-contribution-grid-snake.svg)
+I have a passion for web and software development, always excited about learning new things & discovering the cool trendy tools of my field. Even now, I am in the learning phase for A.I+ trying to grasp on what all this — ventured as a mile stone looks like.
+
+</p>
+
+<p align="center">
+  Thank you for visiting my profile—I'm excited to connect with you! 🎉
+</p>
+
+## **My Profile Stats**
+
+<div align="center">
+  <a href="https://github.com/devzenmaster">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devzenmaster&theme=slateorange" alt="Profile Details">
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devzenmaster&langs_count=8&theme=great-gatsby" alt="Language Stats">
+</div>
+
+<div align="center">
+  <a href="https://github.com/devzenmaster">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=devzenmaster&theme=rising-sun&hide_border=true&exclude_days=Sun" alt="Streak Stats">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/devzenmaster">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devzenmaster&theme=slateorange" alt="Stats">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devzenmaster&theme=slateorange" alt="Most Commit Language">
+  </a>
+</div>
+
+## **Skills & Technologies**
+</div>
+
+<div align="center">
+  <p align="center">
+  <a href="https://github.com/dawidolko">
+    <img src="https://img.shields.io/badge/Languages:-orange" />
+  </a>
+</p>
+</div>
+<div align="center">
+  <a href="https://github.com/devzenmaster?tab=repositories">
+    <img src="https://skillicons.dev/icons?i=java,py,css,html,js," alt="Languages">
+  </a>
+  <br>
+</p>
+</div>
+
+<div align="center">
+  <p align="center">
+  <a href="https://github.com/devzenmaster">
+    <img src="https://img.shields.io/badge/Development:-orange" />
+  </a>
+</p>
+  <a href="https://github.com/devzenmaster?tab=repositories">
+    <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode," alt="Development Tools">
+  </a>
+</div>
+
+## **Connect with Me**
+
+<div align="center">
+  <p align="center">
+  <a href="https://github.com/devzenmaster">
+    <img src="https://img.shields.io/badge/Socialmedia:-orange" />
+  </a>
+</p>
+</div>
+
+<div align="center">
+  <p align="center">
+    <a href="https://x.com/RuwanSanje78522">
+      <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter">
+    </a>
+    <a href="https://stackoverflow.com/users/26834522/ruwan-sanjeewa">
+      <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow">
+    </a>
+    <a href="https://www.instagram.com/_ruwan_sanjeewa_">
+      <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram">
+    </a>
+  </p>
+  <p align="center">
+    <a href="mailto:devzen.master@gmail.com">
+      <img src="img/Email.png" alt="Email">
+    </a>
+    <a href="https://www.linkedin.com/in/ruwan-sanjeewa-3325b7266/">
+      <img src="img/LikedIn.png" alt="LinkedIn">
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/ruwan-sanjeewa-3325b7266/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:devzen.master@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail">
+    </a>
+    <a href="https://www.instagram.com/_ruwan_sanjeewa_" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+  </p>
+</div>
+
+## **Support Me**
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/DevZenMaster">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee">
+  </a>
+</p>
 
 
 
+<p align="center">
+  Visitors:
+  <br>
+  <img src="https://profile-counter.glitch.me/devzenmaster-dev/count.svg" alt="Visitors Counter">
+</p>
 
+<p align="center">
+  <img src="img/eesa.gif" alt="Animation">
+</p>
+
+<p align="center">
+  <img src="assets/Bottom_down.svg" alt="Bottom Border">
+</p>
