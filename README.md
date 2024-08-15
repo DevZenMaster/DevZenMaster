@@ -66,9 +66,10 @@
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/DevZenMaster"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="DevZenMaster" /></a></p><br><br>
 
+<p>&nbsp;</p>
 
 ![snake gif](https://github.com/DevZenMaster/DevZenMaster/blob/output/github-contribution-grid-snake.svg)
-<p>&nbsp;</p>
+
 
 
 
