@@ -2,6 +2,10 @@
   <img src="assets/Bottom_up.svg" alt="Top Border">
 </p>
 
+<p align="center" >
+  <img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px>
+</p>
+
 <div align="center">
   <h1>
     <a href="https://github.com/devzenmaster">
