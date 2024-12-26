@@ -119,7 +119,7 @@
     </a>
   </p>
   <p align="center">
-    <a href="mailto:devzen.master@gmail.com">
+    <a href="mailto:tmruwansanjeewa@gmail.com">
       <img src="img/Email.png" alt="Email" >
     </a>
     <a href="https://www.linkedin.com/in/ruwan-sanjeewa-3325b7266/">
