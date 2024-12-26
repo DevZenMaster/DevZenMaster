@@ -119,18 +119,18 @@
     </a>
   </p>
   <p align="center">
-    <a href="mailto:tmruwansanjeewa@gmail.com">
+    <a href="mailto:ruwansanjeewa@ieee.org">
       <img src="img/Email.png" alt="Email" >
     </a>
-    <a href="https://www.linkedin.com/in/ruwan-sanjeewa-3325b7266/">
+    <a href="www.linkedin.com/in/ruwansanjeewa">
       <img src="img/LikedIn.png" alt="LinkedIn" >
     </a>
   </p>
   <p align="center">
-    <a href="https://www.linkedin.com/in/ruwan-sanjeewa-3325b7266/" target="_blank">
+    <a href="www.linkedin.com/in/ruwansanjeewa" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="mailto:devzen.master@gmail.com">
+    <a href="mailto:ruwansanjeewa@ieee.org">
       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail">
     </a>
     <a href="https://www.instagram.com/_ruwan_sanjeewa_" target="_blank">
