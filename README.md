@@ -7,11 +7,12 @@
 </p>
 
 <div align="center">
-  <h1>
-    <a href="https://github.com/devzenmaster">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7C213&center=true&vCenter=true&width=635&height=70&lines=Hi%2C+I'm+Ruwan+Sanjeewa%F0%9F%91%8B" alt="Hi, I'm Ruwan Sanjeewa">
-    </a>
-  </h1>
+<h1>
+  <a href="https://github.com/devzenmaster">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7C213&center=true&vCenter=true&width=800&height=70&lines=Hi%2C+I'm+Ruwan+Sanjeewa%F0%9F%91%8B;Cybersecurity+Specialist;Full+Stack+Developer;Ethical+Hacker%7C;DevOps+Engineer%7C" alt="Typing SVG">
+  </a>
+</h1>
+
 </div>
 
 <p align="center">
