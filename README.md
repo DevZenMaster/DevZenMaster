@@ -152,8 +152,7 @@
 </p>
 
 <p align="center">
-  Visitors: <br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=devzenmaster.devzenmaster" alt="Visitors">
+  <img src="https://komarev.com/ghpvc/?username=devzenmaster&label=Visitors&color=blue&style=flat" alt="Visitors">
 </p>
 
 
