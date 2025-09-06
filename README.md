@@ -152,10 +152,10 @@
 </p>
 
 <p align="center">
-  Visitors:
-  <br>
-  <img src="https://profile-counter.glitch.me/devzenmaster-dev/count.svg" alt="Visitors Counter">
+  Visitors: <br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=devzenmaster.devzenmaster" alt="Visitors">
 </p>
+
 
 <p align="center">
   <img src="img/eesa.gif" alt="Animation">
