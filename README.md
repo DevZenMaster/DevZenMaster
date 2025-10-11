@@ -94,6 +94,9 @@
   </a>
 </div>
 
+## **Swags**
+[![An image of @devzenmaster's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devzenmaster)](https://holopin.io/@devzenmaster)
+
 ## **Connect with Me**
 
 <div align="center">
