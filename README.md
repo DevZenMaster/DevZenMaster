@@ -70,7 +70,9 @@
 </div>
 
 <div align="center">
+  <div>
   <img src="https://img.shields.io/badge/Development:-orange" alt="Development Tools">
+  </div>
   <a href="https://github.com/devzenmaster?tab=repositories">
     <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,figma,photoshop,docker,pycharm,github,interligi" alt="Development Tools">
   </a>
