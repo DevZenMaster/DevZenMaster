@@ -29,37 +29,33 @@
 </p>
 
 <p align="center">
-  As a student of SLTC Research University doing Bachelor's in Applied IT, I am currently improving my technology and programming skills along with knowledge in AI. 🧠💻
-  I have a passion for web and software development, always excited to learn new things and discover trendy tools in my field.
+  I am a passionate technology enthusiast and a student of SLTC Research University pursuing a Bachelor's in Applied IT.  
+  I specialize in **Cybersecurity, Ethical Hacking, Full Stack Development, and DevOps**, and I constantly improve my skills in AI, web development, and software engineering. 🧠💻  
+  I enjoy building projects, exploring modern tools, and applying practical solutions to real-world problems.  
+  I’m focused on creating secure, efficient, and reliable systems while sharing knowledge with the tech community.
 </p>
 
 <p align="center">
-  Thank you for visiting my profile—I'm excited to connect with you! 🎉
+  Thank you for visiting my profile—let’s connect and build something great together! 🎉
 </p>
 
 ## **My Profile Stats**
 
 <div align="center">
-  <a href="https://github.com/devzenmaster">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devzenmaster&theme=slateorange" alt="Profile Details">
-  </a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devzenmaster&theme=slateorange" alt="Profile Details">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devzenmaster&langs_count=8&theme=great-gatsby" alt="Language Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devzenmaster&layout=compact&langs_count=8&theme=great-gatsby" alt="Language Stats">
 </div>
 
 <div align="center">
-  <a href="https://github.com/devzenmaster">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=devzenmaster&theme=rising-sun&hide_border=true&exclude_days=Sun" alt="Streak Stats">
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devzenmaster&theme=rising-sun&hide_border=true" alt="Streak Stats">
 </div>
 
 <div align="center">
-  <a href="https://github.com/devzenmaster">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devzenmaster&theme=slateorange" alt="Stats">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devzenmaster&theme=slateorange" alt="Most Commit Language">
-  </a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=devzenmaster&theme=slateorange" alt="Stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devzenmaster&theme=slateorange" alt="Most Commit Language">
 </div>
 
 ## **Skills & Technologies**
@@ -100,31 +96,16 @@
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="30">
   </a>
   <a href="https://www.facebook.com/profile.php?id=100040331102544&mibextid=ZbWKwL">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="30">
+    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" width="30">
   </a>
 </div>
 
 <div align="center">
   <a href="mailto:ruwansanjeewa@ieee.org">
-    <img src="assets/Email.png" alt="Email" width="30">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="30">
   </a>
   <a href="https://www.linkedin.com/in/ruwansanjeewa/">
-    <img src="assets/LinkedIn.png" alt="LinkedIn" width="30">
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ruwansanjeewa/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:ruwansanjeewa@ieee.org">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail">
-  </a>
-  <a href="https://www.instagram.com/_ruwan_sanjeewa_" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100040331102544&mibextid=ZbWKwL" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="30">
   </a>
 </div>
 
