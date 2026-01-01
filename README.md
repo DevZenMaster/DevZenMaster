@@ -68,7 +68,9 @@
     <img src="https://skillicons.dev/icons?i=java,py,css,html,js,r,mysql,bootstrap,react,typescript,flutter,dart,nextjs,express,node,mongodb,tailwind,c,c++,go,php,swift,kotlin,graphql,solidity" alt="Languages">
   </a>
 </div>
-
+<div>
+  <br>
+</div>
 <div align="center">
   <div>
     <img src="https://img.shields.io/badge/Development:-orange" alt="Development Tools">
