@@ -7,12 +7,11 @@
 </p>
 
 <div align="center">
-<h1>
-  <a href="https://github.com/devzenmaster">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7C213&center=true&vCenter=true&width=800&height=70&lines=Hi%2C+I'm+Ruwan+Sanjeewa%F0%9F%91%8B;Cybersecurity+Specialist;Full+Stack+Developer;Ethical+Hacker%7C;DevOps+Engineer%7C" alt="Typing SVG">
-  </a>
-</h1>
-
+  <h1>
+    <a href="https://github.com/devzenmaster">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7C213&center=true&vCenter=true&width=800&height=70&lines=Hi%2C+I'm+Ruwan+Sanjeewa%F0%9F%91%8B;Cybersecurity+Specialist;Full+Stack+Developer;Ethical+Hacker%7C;DevOps+Engineer%7C" alt="Typing SVG">
+    </a>
+  </h1>
 </div>
 
 <p align="center">
@@ -26,15 +25,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/devzenmaster">
-    <img src="img/js.gif" alt="computer_system_photo" width="600">
-  </a>
+  <img src="assets/js.gif" alt="computer_system_photo" width="600">
 </p>
 
 <p align="center">
-  As a student of SLTC Research University doing Bachelor's in Applied IT, I am currently trying to improve my technology and programming skills along with enhancement knowledge about AI. 🧠💻
-
-  I have a passion for web and software development, always excited about learning new things & discovering the cool trendy tools of my field. Even now, I am in the learning phase for A.I+ trying to grasp on what all this — ventured as a milestone looks like.
+  As a student of SLTC Research University doing Bachelor's in Applied IT, I am currently improving my technology and programming skills along with knowledge in AI. 🧠💻
+  I have a passion for web and software development, always excited to learn new things and discover trendy tools in my field.
 </p>
 
 <p align="center">
@@ -69,81 +65,67 @@
 ## **Skills & Technologies**
 
 <div align="center">
-  <p align="center">
-  <a href="https://github.com/dawidolko">
-    <img src="https://img.shields.io/badge/Languages:-orange" />
-  </a>
-</p>
-</div>
-<div align="center">
+  <img src="https://img.shields.io/badge/Languages:-orange" alt="Languages">
   <a href="https://github.com/devzenmaster?tab=repositories">
     <img src="https://skillicons.dev/icons?i=java,py,css,html,js,r,mysql,bootstrap,react" alt="Languages">
   </a>
-  <br>
-</p>
 </div>
 
 <div align="center">
-  <p align="center">
-  <a href="https://github.com/devzenmaster">
-    <img src="https://img.shields.io/badge/Development:-orange" />
-  </a>
-</p>
+  <img src="https://img.shields.io/badge/Development:-orange" alt="Development Tools">
   <a href="https://github.com/devzenmaster?tab=repositories">
     <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,figma,photoshop,docker,pycharm,github" alt="Development Tools">
   </a>
 </div>
 
 ## **Swags**
-[![An image of @devzenmaster's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devzenmaster)](https://holopin.io/@devzenmaster)
+<div align="center">
+  [![Holopin badges](https://holopin.me/devzenmaster)](https://holopin.io/@devzenmaster)
+</div>
 
 ## **Connect with Me**
 
 <div align="center">
-  <p align="center">
-  <a href="https://github.com/devzenmaster">
-    <img src="https://img.shields.io/badge/Socialmedia:-orange" />
-  </a>
-</p>
+  <img src="https://img.shields.io/badge/Socialmedia:-orange" alt="Social Media">
 </div>
 
 <div align="center">
-  <p align="center">
-    <a href="https://x.com/RuwanSanje78522">
-      <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="30">
-    </a>
-    <a href="https://stackoverflow.com/users/26834522/ruwan-sanjeewa">
-      <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" width="30">
-    </a>
-    <a href="https://www.instagram.com/_ruwan_sanjeewa_">
-      <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="30">
-    </a>
-    <a href="https://www.facebook.com/profile.php?id=100040331102544&mibextid=ZbWKwL">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="30">
-    </a>
-  </p>
-  <p align="center">
-    <a href="mailto:ruwansanjeewa@ieee.org">
-      <img src="img/Email.png" alt="Email" >
-    </a>
-    <a href="www.linkedin.com/in/ruwansanjeewa">
-      <img src="img/LikedIn.png" alt="LinkedIn" >
-    </a>
-  </p>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/ruwansanjeewa/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:ruwansanjeewa@ieee.org">
-      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail">
-    </a>
-    <a href="https://www.instagram.com/_ruwan_sanjeewa_" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="https://www.facebook.com/profile.php?id=100040331102544&mibextid=ZbWKwL" target="_blank">
-      <img src="https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-    </a>
-  </p>
+  <a href="https://x.com/RuwanSanje78522">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="30">
+  </a>
+  <a href="https://stackoverflow.com/users/26834522/ruwan-sanjeewa">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" width="30">
+  </a>
+  <a href="https://www.instagram.com/_ruwan_sanjeewa_">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="30">
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100040331102544&mibextid=ZbWKwL">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="30">
+  </a>
+</div>
+
+<div align="center">
+  <a href="mailto:ruwansanjeewa@ieee.org">
+    <img src="assets/Email.png" alt="Email" width="30">
+  </a>
+  <a href="https://www.linkedin.com/in/ruwansanjeewa/">
+    <img src="assets/LinkedIn.png" alt="LinkedIn" width="30">
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ruwansanjeewa/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:ruwansanjeewa@ieee.org">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail">
+  </a>
+  <a href="https://www.instagram.com/_ruwan_sanjeewa_" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100040331102544&mibextid=ZbWKwL" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
 </div>
 
 ## **Support Me**
@@ -158,9 +140,8 @@
   <img src="https://komarev.com/ghpvc/?username=devzenmaster&label=Visitors&color=blue&style=flat" alt="Visitors">
 </p>
 
-
 <p align="center">
-  <img src="img/eesa.gif" alt="Animation">
+  <img src="assets/eesa.gif" alt="Animation">
 </p>
 
 <p align="center">
