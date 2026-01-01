@@ -61,7 +61,9 @@
 ## **Skills & Technologies**
 
 <div align="center">
+  <div>
   <img src="https://img.shields.io/badge/Languages:-orange" alt="Languages">
+  </div>
   <a href="https://github.com/devzenmaster?tab=repositories">
     <img src="https://skillicons.dev/icons?i=java,py,css,html,js,r,mysql,bootstrap,react,typescript,flutter,dart,nextjs,express,node,mongodb,tailwind" alt="Languages">
   </a>
