@@ -62,21 +62,22 @@
 
 <div align="center">
   <div>
-  <img src="https://img.shields.io/badge/Languages:-orange" alt="Languages">
+    <img src="https://img.shields.io/badge/Languages:-orange" alt="Languages">
   </div>
   <a href="https://github.com/devzenmaster?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=java,py,css,html,js,r,mysql,bootstrap,react,typescript,flutter,dart,nextjs,express,node,mongodb,tailwind" alt="Languages">
+    <img src="https://skillicons.dev/icons?i=java,py,css,html,js,r,mysql,bootstrap,react,typescript,flutter,dart,nextjs,express,node,mongodb,tailwind,c,c++,go,php,swift,kotlin,graphql,solidity" alt="Languages">
   </a>
 </div>
 
 <div align="center">
   <div>
-  <img src="https://img.shields.io/badge/Development:-orange" alt="Development Tools">
+    <img src="https://img.shields.io/badge/Development:-orange" alt="Development Tools">
   </div>
   <a href="https://github.com/devzenmaster?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,figma,photoshop,docker,pycharm,github,interligi" alt="Development Tools">
+    <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,figma,photoshop,docker,pycharm,github,interligi,postman,linux,webpack,vercel,netlify,babel,eslint" alt="Development Tools">
   </a>
 </div>
+
 
 
 ## **Swags**
