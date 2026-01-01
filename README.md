@@ -63,16 +63,17 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Languages:-orange" alt="Languages">
   <a href="https://github.com/devzenmaster?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=java,py,css,html,js,r,mysql,bootstrap,react" alt="Languages">
+    <img src="https://skillicons.dev/icons?i=java,py,css,html,js,r,mysql,bootstrap,react,typescript,flutter,dart,nextjs,express,node,mongodb,tailwind" alt="Languages">
   </a>
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Development:-orange" alt="Development Tools">
   <a href="https://github.com/devzenmaster?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,figma,photoshop,docker,pycharm,github" alt="Development Tools">
+    <img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,figma,photoshop,docker,pycharm,github,interligi" alt="Development Tools">
   </a>
 </div>
+
 
 ## **Swags**
 <div align="center">
