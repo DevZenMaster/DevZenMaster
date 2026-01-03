@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/js.gif" alt="computer_system_photo" width="600">
+  <img src="img/js.gif" alt="computer_system_photo" width="600">
 </p>
 
 <p align="center">
